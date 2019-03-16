@@ -18,8 +18,8 @@ Timeslot|Topic|Presenter
 16:30-17:00| Evaluation 
 
 ## References
-⋅⋅* https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.3.3 
-⋅⋅* https://www.luis.ai/
-⋅⋅* https://www.qnamaker.ai/
-⋅⋅* https://github.com/Microsoft/BotBuilder-Samples
-⋅⋅* https://github.com/Microsoft/botbuilder-tools 
+1. [Bot Framework emulator](https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.3.3)
+2. [LUIS.AI](https://www.luis.ai/)
+3. [QnA Maker](https://www.qnamaker.ai/)
+4. [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples)
+5. [Bot builder Tools](https://github.com/Microsoft/botbuilder-tools)
