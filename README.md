@@ -16,3 +16,10 @@ Timeslot|Topic|Presenter
 15:30-16:00| Package & Publish| Rick
 16:00-16:30| Connect | Albert-Jan 
 16:30-17:00| Evaluation 
+
+## References
+https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.3.3 
+https://www.luis.ai/
+https://www.qnamaker.ai/
+https://github.com/Microsoft/BotBuilder-Samples
+https://github.com/Microsoft/botbuilder-tools 
