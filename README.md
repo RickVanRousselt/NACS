@@ -23,3 +23,4 @@ Timeslot|Topic|Presenter
 3. [QnA Maker](https://www.qnamaker.ai/)
 4. [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples)
 5. [Bot builder Tools](https://github.com/Microsoft/botbuilder-tools)
+6. [SPFx Bot Chat WebPart](https://github.com/SharePoint/sp-dev-fx-webparts/tree/master/samples/react-bot-framework)
